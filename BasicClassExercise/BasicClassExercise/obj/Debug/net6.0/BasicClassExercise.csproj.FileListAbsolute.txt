@@ -1,0 +1,15 @@
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\TCClassesAndObjects\LectureExercises\BasicClassExercise\BasicClassExercise\bin\Debug\net6.0\BasicClassExercise.exe
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\TCClassesAndObjects\LectureExercises\BasicClassExercise\BasicClassExercise\bin\Debug\net6.0\BasicClassExercise.deps.json
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\TCClassesAndObjects\LectureExercises\BasicClassExercise\BasicClassExercise\bin\Debug\net6.0\BasicClassExercise.runtimeconfig.json
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\TCClassesAndObjects\LectureExercises\BasicClassExercise\BasicClassExercise\bin\Debug\net6.0\BasicClassExercise.dll
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\TCClassesAndObjects\LectureExercises\BasicClassExercise\BasicClassExercise\bin\Debug\net6.0\ref\BasicClassExercise.dll
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\TCClassesAndObjects\LectureExercises\BasicClassExercise\BasicClassExercise\bin\Debug\net6.0\BasicClassExercise.pdb
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\TCClassesAndObjects\LectureExercises\BasicClassExercise\BasicClassExercise\obj\Debug\net6.0\BasicClassExercise.csproj.AssemblyReference.cache
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\TCClassesAndObjects\LectureExercises\BasicClassExercise\BasicClassExercise\obj\Debug\net6.0\BasicClassExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\TCClassesAndObjects\LectureExercises\BasicClassExercise\BasicClassExercise\obj\Debug\net6.0\BasicClassExercise.AssemblyInfoInputs.cache
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\TCClassesAndObjects\LectureExercises\BasicClassExercise\BasicClassExercise\obj\Debug\net6.0\BasicClassExercise.AssemblyInfo.cs
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\TCClassesAndObjects\LectureExercises\BasicClassExercise\BasicClassExercise\obj\Debug\net6.0\BasicClassExercise.csproj.CoreCompileInputs.cache
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\TCClassesAndObjects\LectureExercises\BasicClassExercise\BasicClassExercise\obj\Debug\net6.0\BasicClassExercise.dll
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\TCClassesAndObjects\LectureExercises\BasicClassExercise\BasicClassExercise\obj\Debug\net6.0\ref\BasicClassExercise.dll
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\TCClassesAndObjects\LectureExercises\BasicClassExercise\BasicClassExercise\obj\Debug\net6.0\BasicClassExercise.pdb
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\TCClassesAndObjects\LectureExercises\BasicClassExercise\BasicClassExercise\obj\Debug\net6.0\BasicClassExercise.genruntimeconfig.cache
